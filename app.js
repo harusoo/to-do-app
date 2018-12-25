@@ -15,6 +15,10 @@ function onReady() {
     // create a new input
     let checkbox = document.createElement('input');
 
+    let deleteButton = document.createElement('button');
+
+    delteButton.appendChild(button);
+
     // set the input's type to checkbox
     checkbox.type = "checkbox";
 
