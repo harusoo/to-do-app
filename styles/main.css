@@ -1,0 +1,54 @@
+header {
+  height: 20vh;
+  justify-content: center;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h1 {
+  color: hsla(0, 0%, 50%, 1);
+  font-weight: bold;
+}
+
+form {
+  font-size: 1.2rem;
+  font-weight: normal;
+  justify-content: center;
+  text-align: center;
+}
+
+label {
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+
+input {
+  font-size: 1.5rem;
+
+}
+
+#newToDoText {
+  width: 200px;
+  height: 25px;
+  margin-top: 10px;
+}
+
+#myButton {
+  width: 120px;
+  height: 33px;
+  min-width: initial;
+  font-size: 1rem;
+  justify-content: center;
+  text-align: center;
+  margin-top: -7.5px;
+}
+
+ul {
+  font-size: 1.5rem;
+  font-weight: normal;
+  justify-content: start;
+  list-style-type: none;
+  padding-left: 600px;
+  padding-top: 20px;
+}
